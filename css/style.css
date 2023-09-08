@@ -28,6 +28,11 @@ h6 {
     font-size: 12px !important;
 }.register a {
     font-size: 12px !important;
+}.footer {
+    position: absolute ;
+    bottom: 0 ;
+    right:  0;
+    left: 0;
 }
 /* Responsive */
 @media (max-width: 768px){
